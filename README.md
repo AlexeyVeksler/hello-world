@@ -1,1 +1,0 @@
-# hello-world## HEADING H2Start codingI'm just an event-manager, but i want to understand how to code and how to do projects in GitHub.What are you doing? You must find how to merge branch to master.
